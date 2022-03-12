@@ -33,7 +33,7 @@ class Git:
 
         return True
 
-    def get_last_commit_time(self):
+    def get_last_update(self):
         """
         Get the latest commit time
         Returns:
